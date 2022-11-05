@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightblue;
+}
+
+.change {
+  background-color: red;
+  font-family: sans-serif;
+  color: #f1f1f1;
+  border: 1px solid black;
+  padding: 10px 20px;
+}
